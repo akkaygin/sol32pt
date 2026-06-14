@@ -1,5 +1,4 @@
-this is not a showcase, its not supposed to be impressive. but this is farther than YOU'll (!) ever come.
-
+this is not a showcase, its not supposed to be impressive. but ifkyk
 # ~~sol32 Programming Toolchain~~
 Processor design is hard, both in RTL and specifications. Decisions made in the design phase are permanent and effect the further development. Even with almost a half of a century of processor design history, there are some tradeoffs that make sense in one context and not in others. It is an extremely complex topic that requires experience, which I am slowly acquiring.
 
